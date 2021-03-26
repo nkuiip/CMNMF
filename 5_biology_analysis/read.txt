@@ -1,0 +1,236 @@
+pathway按metabolism分类顺序:
+1.Carbonhydrate metabolism
+2.Energy metabolism
+3.Lipid metabolism
+4.Nucleotide metabolism
+5.Amino acid metabolism
+6.Metabolism of other amino acids
+7.Glycan biosynthesis and metabolism
+8.Metabolism of cofactors and vitamins
+9.Metabolism of terpenoids and polyketides
+10.Biosynthesis of other secondary metabolites
+11.Xenobiotics biodegradation and metabolism
+12.Chemical structure transformation maps
+classification_precison
+1 Metabolism
+2 Genetic Information Processing
+3 Environmental Information Processing
+4 Organismal Systems
+5 Cellular Processes
+6 Human Diseases
+7 所有的average_precision
+pathway1-81都是属于 Metabolism
+pathway82  Class Genetic Information Processing,Translation	
+pathway87 Environmental Information Processing; Membrane transport
+pathway88 Genetic Information Processing; Translation
+pathway89 Genetic Information Processing; Translation
+pathway90 Genetic Information Processing; Translation
+pathway91 Genetic Information Processing; Translation	
+pathway92 Genetic Information Processing; Folding, sorting and degradation
+pathway93 Genetic Information Processing; Transcription
+pathway94 Genetic Information Processing; Transcription
+pathway95 Genetic Information Processing; Replication and repair
+pathway96 Genetic Information Processing; Transcription
+pathway97 Genetic Information Processing; Folding, sorting and degradation
+pathway98 Genetic Information Processing; Folding, sorting and degradation
+
+pathway99 Organismal Systems; Endocrine system
+
+	
+pathway100 Genetic Information Processing; Replication and repair
+pathway101 Genetic Information Processing; Replication and repair
+pathway102 Genetic Information Processing; Replication and repair
+pathway103 Genetic Information Processing; Replication and repair
+pathway104 Genetic Information Processing; Replication and repair
+pathway105 Genetic Information Processing; Replication and repair
+pathway106 Environmental Information Processing; Signal transduction
+pathway107 Environmental Information Processing; Signal transduction
+pathway108 Environmental Information Processing; Signal transduction
+pathway109 Environmental Information Processing; Signal transduction
+pathway110 Environmental Information Processing; Signal transduction
+pathway111 Environmental Information Processing; Signal transduction
+pathway112 Environmental Information Processing; Signal transduction
+pathway113 Environmental Information Processing; Signaling molecules and interaction
+pathway114 Organismal Systems; Immune system
+pathway115 Environmental Information Processing; Signal transduction
+pathway116 Environmental Information Processing; Signal transduction
+pathway117 Environmental Information Processing; Signal transduction
+pathway118 Environmental Information Processing; Signal transduction
+pathway119 Environmental Information Processing; Signal transduction
+pathway120 Environmental Information Processing; Signal transduction
+pathway121 Environmental Information Processing; Signaling molecules and interaction
+pathway122 Cellular Processes; Cell growth and death
+pathway123 Cellular Processes; Cell growth and death
+pathway124 Cellular Processes; Cell growth and death
+pathway125 Genetic Information Processing; Folding, sorting and degradation
+pathway126 Genetic Information Processing; Folding, sorting and degradation
+pathway127 Genetic Information Processing; Folding, sorting and degradation
+pathway128 搜不到 
+pathway129 Genetic Information Processing; Folding, sorting and degradation
+pathway130 Cellular Processes; Transport and catabolism
+pathway131 Cellular Processes; Transport and catabolism
+pathway132 Cellular Processes; Transport and catabolism
+pathway133 Cellular Processes; Transport and catabolism
+pathway134 Environmental Information Processing; Signal transduction
+pathway135 Environmental Information Processing; Signal transduction
+pathway136 Environmental Information Processing; Signal transduction
+pathway137 Cellular Processes; Cell growth and death
+pathway138 Organismal Systems; Aging
+pathway139 Organismal Systems; Aging
+pathway140 Organismal Systems; Circulatory system
+pathway141 Organismal Systems; Circulatory system
+pathway142 Organismal Systems; Circulatory system
+pathway143 Environmental Information Processing; Signal transduction
+pathway144 Organismal Systems; Development
+pathway145 Environmental Information Processing; Signal transduction
+pathway146 Environmental Information Processing; Signal transduction
+pathway147 Environmental Information Processing; Signal transduction
+pathway148 Organismal Systems; Development
+pathway149 Environmental Information Processing; Signal transduction
+pathway150 Organismal Systems; Development
+pathway151 Environmental Information Processing; Signal transduction
+pathway152 Cellular Processes; Cellular community - eukaryotes
+pathway153 Environmental Information Processing; Signaling molecules and interaction
+pathway154 Environmental Information Processing; Signaling molecules and interaction
+pathway155 Cellular Processes; Cellular community - eukaryotes
+pathway156 Cellular Processes; Cellular community - eukaryotes
+pathway157 Cellular Processes; Cellular community - eukaryotes
+pathway158 Cellular Processes; Cellular community - eukaryotes
+pathway159 Organismal Systems; Immune system
+pathway160 Organismal Systems; Immune system
+pathway161 Organismal Systems; Immune system
+pathway162 Organismal Systems; Endocrine system
+pathway163 Organismal Systems; Immune system
+pathway164 Organismal Systems; Immune system
+pathway165 Organismal Systems; Immune system
+pathway166 Organismal Systems; Immune system
+pathway167 Environmental Information Processing; Signal transduction
+pathway168 Organismal Systems; Immune system
+pathway169 Organismal Systems; Immune system
+pathway170 Organismal Systems; Immune system
+pathway171 Organismal Systems; Immune system
+pathway172 Organismal Systems; Immune system
+pathway173 Organismal Systems; Immune system
+pathway174 Environmental Information Processing; Signal transduction
+pathway175 Organismal Systems; Immune system
+pathway176 Organismal Systems; Immune system	
+pathway177 Organismal Systems; Environmental adaptation
+pathway178 Organismal Systems; Environmental adaptation
+pathway179 Organismal Systems; Nervous system
+pathway180 Organismal Systems; Nervous system
+pathway181 Organismal Systems; Nervous system
+pathway182 Organismal Systems; Nervous system
+pathway183 Organismal Systems; Nervous system
+pathway184 Organismal Systems; Nervous system
+pathway185 Organismal Systems; Nervous system
+pathway186 Organismal Systems; Nervous system
+pathway187 Organismal Systems; Nervous system
+pathway188 Organismal Systems; Nervous system
+pathway189 Organismal Systems; Sensory system
+pathway190 Organismal Systems; Sensory system
+pathway191 Organismal Systems; Sensory system
+pathway192 Organismal Systems; Sensory system
+pathway193 Cellular Processes; Cell motility
+pathway194 Organismal Systems; Endocrine system
+pathway195 Organismal Systems; Endocrine system
+pathway196 Organismal Systems; Endocrine system
+pathway197 Organismal Systems; Endocrine system
+pathway198 Organismal Systems; Endocrine system
+pathway199 Organismal Systems; Endocrine system
+pathway200 Organismal Systems; Endocrine system
+pathway201 Organismal Systems; Endocrine system
+pathway202 Organismal Systems; Endocrine system
+pathway203 Organismal Systems; Endocrine system
+pathway204 Organismal Systems; Endocrine system
+pathway205 Organismal Systems; Endocrine system
+pathway206 Organismal Systems; Endocrine system
+pathway207 Organismal Systems; Endocrine system
+pathway208 Organismal Systems; Endocrine system
+pathway209 Organismal Systems; Endocrine system
+pathway210 Human Diseases; Endocrine and metabolic diseases
+pathway211 Human Diseases; Endocrine and metabolic diseases
+pathway212 Human Diseases; Endocrine and metabolic diseases
+pathway213 Human Diseases; Endocrine and metabolic diseases
+pathway214 Human Diseases; Endocrine and metabolic diseases
+pathway215 Human Diseases; Endocrine and metabolic diseases
+pathway216 Organismal Systems; Excretory system
+pathway217 Organismal Systems; Excretory system
+pathway218 Organismal Systems; Excretory system
+pathway219 Organismal Systems; Excretory system
+pathway220 Organismal Systems; Excretory system
+pathway221 Organismal Systems; Digestive system
+pathway222 Organismal Systems; Digestive system
+pathway223 Organismal Systems; Digestive system
+pathway224 Organismal Systems; Digestive system
+pathway225 Organismal Systems; Digestive system
+pathway226 Organismal Systems; Digestive system
+pathway227 Organismal Systems; Digestive system
+pathway228 Organismal Systems; Digestive system
+pathway229 Organismal Systems; Digestive system
+pathway230 Human Diseases; Neurodegenerative diseases
+pathway231 Human Diseases; Neurodegenerative diseases
+pathway232 Human Diseases; Neurodegenerative diseases
+pathway233 Human Diseases; Neurodegenerative diseases 
+pathway234 Human Diseases; Neurodegenerative diseases
+pathway235 Human Diseases; Substance dependence
+pathway236 Human Diseases; Substance dependence
+pathway237 Human Diseases; Substance dependence
+pathway238 Human Diseases; Substance dependence
+pathway239 Human Diseases; Substance dependence
+pathway240 Human Diseases; Infectious diseases
+pathway241 Human Diseases; Infectious diseases
+pathway242 Human Diseases; Infectious diseases
+pathway243 Human Diseases; Infectious diseases
+pathway244 Human Diseases; Infectious diseases
+pathway245 Human Diseases; Infectious diseases
+pathway246 Human Diseases; Infectious diseases
+pathway247 Human Diseases; Infectious diseases
+pathway248 Human Diseases; Infectious diseases
+pathway249 Human Diseases; Infectious diseases
+pathway250 Human Diseases; Infectious diseases
+pathway251 Human Diseases; Infectious diseases
+pathway252 Human Diseases; Infectious diseases
+pathway253 Human Diseases; Infectious diseases
+pathway254 Human Diseases; Infectious diseases
+pathway255 Human Diseases; Infectious diseases
+pathway256 Human Diseases; Infectious diseases
+pathway257 Human Diseases; Infectious diseases
+pathway258 Human Diseases; Infectious diseases
+pathway259 Human Diseases; Infectious diseases
+pathway260 Human Diseases; Infectious diseases
+pathway261 Human Diseases; Infectious diseases
+pathway262 Human Diseases; Infectious diseases
+pathway263 Human Diseases; Cancers
+pathway264 Human Diseases; Cancers
+pathway265 Human Diseases; Cancers
+pathway266 Human Diseases; Cancers
+pathway267 Human Diseases; Cancers
+pathway268 Human Diseases; Cancers
+pathway269 Human Diseases; Cancers
+pathway270 Human Diseases; Cancers
+pathway271 Human Diseases; Cancers
+pathway272 Human Diseases; Cancers
+pathway273 Human Diseases; Cancers
+pathway274 Human Diseases; Cancers
+pathway275 Human Diseases; Cancers
+pathway276 Human Diseases; Cancers
+pathway277 Human Diseases; Cancers
+pathway278 Human Diseases; Cancers
+pathway279 Human Diseases; Cancers
+pathway280 Human Diseases; Cancers
+pathway281 Human Diseases; Cancers
+pathway282 Human Diseases; Cancers 
+pathway283 Human Diseases; Cancers
+pathway284 Human Diseases; Cancers
+pathway285 Human Diseases; Immune diseases
+pathway286 Human Diseases; Immune diseases
+pathway287 Human Diseases; Immune diseases
+pathway288 Human Diseases; Immune diseases
+pathway289 Human Diseases; Immune diseases
+pathway290 Human Diseases; Immune diseases
+pathway291 Human Diseases; Immune diseases
+pathway292 Human Diseases; Immune diseases
+pathway293 Human Diseases; Cardiovascular diseases
+pathway294 Human Diseases; Cardiovascular diseases
+pathway295 Human Diseases; Cardiovascular diseases
+pathway296 Human Diseases; Cardiovascular diseases
